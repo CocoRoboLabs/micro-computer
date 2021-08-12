@@ -15,8 +15,6 @@ Made with CocoRobo X-AI Module, built on MaixPy (MicroPython).
 - Burning firmware:
   - To be edited.
 
----
-
 ## Additional comments:
 
 To create customized font from common font file (`.otf`, `.ttf`, etc.) to `.Dzk`, read [here](https://github.com/sipeed/MaixPy_scripts/blob/8407d0eb96fd076f606f6db62cc766135a7c8416/multimedia/gui/image/demo_draw_font/readme.md) for more information.
