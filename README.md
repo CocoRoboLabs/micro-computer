@@ -23,3 +23,4 @@ To use customized font based on the `3type` version of the CocoRobo X Module fir
 1. Go to `https://x.cocorobo.cn/python`
 2. Paste the code from `custom-font-display.py` to the code area of the loaded page
 3. Click `Run` to see the output immidiately. Or click `Upload` to upload this code file to the module, you can run the uploaded code by clicking the `Run Last` button on the bootup interface.
+
